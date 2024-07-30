@@ -1,4 +1,4 @@
-The datasets and source code of #WLS are for Fast Hash Sketching for Graphs with Continuous Attributes.
+The datasets and source code of Sketching Graphs with Continuous Attributes.
 
 The steps of running the experiments:
 
