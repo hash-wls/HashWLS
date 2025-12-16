@@ -1,4 +1,4 @@
-The datasets and source code of Sketching Graphs with Continuous Attributes.
+The datasets and source code of Learning-Free Continuous-Attribute Graph Embedding via Locality-Sensitive Hashing.
 
 The steps of running the experiments:
 
